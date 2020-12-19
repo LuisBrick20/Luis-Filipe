@@ -1,0 +1,17 @@
+h1:hover {
+  background-color: blue;
+}
+h2:hover {
+  background-color: red;}
+
+.monospace {
+	font-family: "helvética", helvética, sans-serif;
+	font-size: normal;
+	font-weight: normal;
+	font-variant: normal;
+}
+
+.border {
+	border-style: outset;
+	border-color: yellow;
+}
